@@ -12,6 +12,8 @@ replicate ( ostris trainign flux to create your own images )
 video: hailuo ,kling , minimax , runway
 extract image frames : ezgif.com
 
+openart.ai ( create character train model )
+
 magnific.ai( upscaling images )
 instagram:
 @mattfarmerai
