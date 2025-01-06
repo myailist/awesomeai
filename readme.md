@@ -9,6 +9,8 @@ lazylines.ai
 elevenlabs ( clone your voice)
 replicate ( ostris trainign flux to create your own images )
 
+video: kling , minimax , runway
+
 magnific.ai( upscaling images )
 instagram:
 @mattfarmerai
