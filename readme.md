@@ -6,6 +6,10 @@ daily ai ( para hacer newsletters de email marketing )
 https://storyboarder.ai/
 lazylines.ai
 
+elevenlabs ( clone your voice)
+replicate ( ostris trainign flux to create your own images )
+
+magnific.ai( upscaling images )
 instagram:
 @mattfarmerai
 @theguyforai
