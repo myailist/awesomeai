@@ -9,6 +9,9 @@ https://lazylines.ai
 elevenlabs ( clone your voice)
 replicate ( ostris trainign flux to create your own images )
 
+https://app.rendernet.ai/ ( para clonarte )
+fal.ai para clomarte entrenando un llra y despues usandola 
+
 video: hailuo ,kling , minimax , runway
 extract image frames : ezgif.com
 
