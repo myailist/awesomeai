@@ -26,3 +26,9 @@ instagram:
 @nomadatoast
 @zamurovic.brothers
 @rpn
+
+
+
+thumbnails: ni3.app
+logos to 3d: formia.so
+
